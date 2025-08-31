@@ -49,7 +49,7 @@ TP-Socket
 
 ---
 
-## ⚡ Partie 1 : Client TCP (bloquant)
+## ⚡ Partie 1 : Client TCP
 
 Dans ce module, nous implémentons un **client TCP basique** qui se connecte à un serveur via un socket classique (`java.net.Socket`) au port 5000.
 
